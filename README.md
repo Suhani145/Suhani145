@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Easrin Mahjabin Suhani</h1>
 <h3 align="center">An aspiring flutter application developer continuously learning and building projects.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/8768655/media/0eb8fcc9f2b8a55c589cfabd6cc89d94.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nightwatch145&label=Profile%20views&color=0e75b6&style=flat" alt="nightwatch145" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=suhani145&label=Profile%20views&color=0e75b6&style=flat" alt="suhani145" /> </p>
 
 - 🌱 I’m currently learning **Flutter**
 - 📫 How to reach me **mahjabinsuhani663@gmail.com**
@@ -20,4 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Suhani145&show_icons=true&locale=en" alt="Suhani145" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Suhani145&" alt="Suhani145" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suhani145&" alt="suhani145" /></p>
