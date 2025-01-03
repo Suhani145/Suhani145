@@ -1,11 +1,11 @@
 [![MasterHead](https://media.licdn.com/dms/image/C4E12AQHbxJS3jlvNYQ/article-inline_image-shrink_1000_1488/0/1576216728456?e=1721260800&v=beta&t=3BPIKOgh6TuqRvcDqPB0rixZkxoEEhEZIxcLQwp6f6M)](https://Nightwatch145.io)
 <h1 align="center">Hi 👋, I'm Easrin Mahjabin Suhani</h1>
-<h3 align="center">An aspiring flutter application developer continuously learning and building projects.</h3>
+<h3 align="center">An aspiring mobile application developer continuously learning and building projects.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/8768655/media/0eb8fcc9f2b8a55c589cfabd6cc89d94.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhani145&label=Profile%20views&color=0e75b6&style=flat" alt="suhani145" /> </p>
 
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently exploring **Mobile App Development**
   
 - 📫 How to reach me **mahjabinsuhani663@gmail.com**
 <h3 align="left">Connect with me:</h3>
