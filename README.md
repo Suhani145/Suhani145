@@ -35,7 +35,7 @@ I approach this largely through **project-driven learning**: building applicatio
 - **Tools:** Git, Linux, Postman  
 - **Design:** Adobe Illustrator
 
----
+
 
 ### Contact
 - Email: **mahjabinsuhani663@gmail.com**
