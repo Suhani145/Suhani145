@@ -6,25 +6,26 @@ Computer Science Undergraduate • Flutter-focused
 ---
 
 ### Overview
-I work primarily with **Flutter and Dart**, focusing on understanding how mobile applications are structured, scaled, and maintained beyond beginner-level use cases.
+I primarily work with **Flutter and Dart**, focusing on understanding how mobile applications are structured, scaled, and maintained beyond beginner-level use cases.
 
-My current work is centered on learning how real Flutter projects are designed — from data flow and architecture to code organization and UI composition.
+My current work is centered on developing **architectural awareness** — how data flows through an application, how features are layered, and how codebases remain readable and adaptable as they grow.  
+I approach this largely through **project-driven learning**: building applications, examining their behavior, refactoring code, and iterating until the system makes sense as a whole.
 
 ---
 
 ### Technical Focus
 - Flutter & Dart
-- MVVM and application architecture
+- MVVM and application-level architecture
 - Project structuring and feature layering
-- Clean, readable, and maintainable code
+- Clean, maintainable code practices
 - Navigating and modifying medium-sized Flutter codebases
 
 ---
 
 ### Development Direction
-- Transitioning from small demo apps to more complete applications  
-- Building architectural intuition, not just UI features  
-- Strengthening engineering fundamentals alongside Flutter
+- Strengthening core Flutter engineering fundamentals  
+- Moving from UI-centric work toward system-aware application design  
+- Preparing for future expansion into backend development and native mobile platforms once Flutter proficiency is solid
 
 ---
 
