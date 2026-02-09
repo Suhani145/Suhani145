@@ -3,7 +3,7 @@
 Computer Science Undergraduate • Flutter-focused
 </p>
 
----
+
 
 ### Overview
 I primarily work with **Flutter and Dart**, focusing on understanding how mobile applications are structured, scaled, and maintained beyond beginner-level use cases.
