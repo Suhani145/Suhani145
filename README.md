@@ -11,7 +11,7 @@ I primarily work with **Flutter and Dart**, focusing on understanding how mobile
 My current work is centered on developing **architectural awareness** — how data flows through an application, how features are layered, and how codebases remain readable and adaptable as they grow.  
 I approach this largely through **project-driven learning**: building applications, examining their behavior, refactoring code, and iterating until the system makes sense as a whole.
 
----
+
 
 ### Technical Focus
 - Flutter & Dart
@@ -20,14 +20,14 @@ I approach this largely through **project-driven learning**: building applicatio
 - Clean, maintainable code practices
 - Navigating and modifying medium-sized Flutter codebases
 
----
+
 
 ### Development Direction
 - Strengthening core Flutter engineering fundamentals  
 - Moving from UI-centric work toward system-aware application design  
 - Preparing for future expansion into backend development and native mobile platforms once Flutter proficiency is solid
 
----
+
 
 ### Tools & Technologies
 - **Languages:** Dart, C, C++, Python  
