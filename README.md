@@ -1,7 +1,7 @@
 <h1 align="center">Easrin Mahjabin Suhani</h1>
-<p align="center">
+<h align="center">
 Mobile Application Developer • CS Undergraduate
-</p>
+</h1>
 
 ---
 
